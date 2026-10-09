@@ -1,0 +1,3 @@
+﻿seg_id,field_desc,text,decision,gold_code,secondary_code,rationale
+S009,Reason for choosing this place to live,"Gia đình/họ hàng tôi sống ở đây, Tôi có thể kiếm sống ở đây",EXCLUDE_SINGLE_LABEL,,SOCIAL|ECON,Two explicit and co-equal reasons (family and livelihood); no defensible primary theme.
+S099,Reason for choosing this place to live,"Tôi có thể kiếm sống ở đây, Dịch vụ giao thông công cộng ở đây rất tốt",EXCLUDE_SINGLE_LABEL,,ECON|MOBIL,Two explicit and co-equal location reasons (livelihood and public transport); no defensible primary theme.

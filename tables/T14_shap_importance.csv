@@ -1,0 +1,46 @@
+﻿feature,mean_abs_shap,block,share_pct,rank,label
+i_drain,0.19231,Survey archive,17.27,1,Drainage adequacy (survey)
+i_road,0.13632,Survey archive,12.24,2,Road adequacy (survey)
+edu,0.08552,Demographics,7.68,3,Education
+p_advantage,0.08124,Survey archive,7.29,4,Area advantage (survey)
+d_water_m,0.07187,Open data,6.45,5,Distance to water
+d_ndbi,0.04216,Open data,3.79,6,Δ NDBI
+age,0.03355,Demographics,3.01,7,Age
+p_security,0.03288,Survey archive,2.95,8,Perceived security (survey)
+d_vh,0.0316,Open data,2.84,9,Δ SAR VH backscatter
+income,0.02974,Demographics,2.67,10,Household income
+elev_m_r300,0.02524,Open data,2.27,11,"Elevation, 300 m mean"
+vh_p1,0.02486,Open data,2.23,12,SAR VH backscatter (2022–23)
+d_ndvi,0.02356,Open data,2.12,13,Δ NDVI
+slope_deg,0.02273,Open data,2.04,14,Slope
+elev_m,0.02115,Open data,1.9,15,Elevation
+ndvi_r300,0.0207,Open data,1.86,16,"NDVI, 300 m mean"
+d_metro_m,0.02015,Open data,1.81,17,Distance to metro station
+flood_sar_r300,0.01911,Open data,1.72,18,"SAR flag, 300 m"
+ndbi_r300,0.01782,Open data,1.6,19,"NDBI, 300 m mean"
+d_lst,0.01765,Open data,1.58,20,Δ LST
+lst_c,0.01705,Open data,1.53,21,Land surface temperature
+mndwi,0.01548,Open data,1.39,22,MNDWI
+d_ndvi_r300,0.01421,Open data,1.28,23,"Δ NDVI, 300 m"
+built_m2,0.01339,Open data,1.2,24,Built surface (GHSL)
+i_facil,0.01172,Survey archive,1.05,25,Public facilities (survey)
+lst_p2,0.01139,Open data,1.02,26,LST (2025–26)
+road_density,0.01103,Open data,0.99,27,Road density (OSM)
+hand_m,0.00958,Open data,0.86,28,Height above drainage
+ndvi,0.00934,Open data,0.84,29,NDVI
+vh_p2,0.0092,Open data,0.83,30,SAR VH backscatter (2025–26)
+ndvi_p2,0.00865,Open data,0.78,31,NDVI (2025–26)
+pop_dens,0.00587,Open data,0.53,32,Population density (GHSL)
+d_pop,0.0054,Open data,0.48,33,Δ population
+p_change,0.00539,Survey archive,0.48,34,Area is changing well (survey)
+ndwi,0.00412,Open data,0.37,35,NDWI
+ndbi_p2,0.00406,Open data,0.36,36,NDBI (2025–26)
+ndbi,0.00242,Open data,0.22,37,NDBI
+flood_sar,0.00204,Open data,0.18,38,SAR open-water flag
+flood_freq_r300,0.0018,Open data,0.16,39,"JRC occurrence, 300 m"
+female,0.0015,Demographics,0.13,40,Female
+p_green,0.0,Survey archive,0.0,41,Green space access (survey)
+pop_2025,0.0,Open data,0.0,42,Population 2025 (GHSL)
+built_2025,0.0,Open data,0.0,43,Built surface 2025 (GHSL)
+d_built,0.0,Open data,0.0,44,Δ built surface
+built_frac,0.0,Open data,0.0,45,Built fraction

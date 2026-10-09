@@ -1,0 +1,10 @@
+{
+  "n": 130,
+  "label_sources": {
+    "senior_adjudication": 7,
+    "strict_majority": 123
+  },
+  "source_gold_sha256": "3e151590dd89f5675d02b3b4a6bccbda3c56b9bd6f936bbe08e7688512b72fd0",
+  "source_sample_sha256": "9410c4e0ec2a3ecb7c9dce6542928da4089297c4d6d07426c742d7e5e094ebda",
+  "excluded": "66 participation-mode and 2 irreducibly multi-theme responses"
+}

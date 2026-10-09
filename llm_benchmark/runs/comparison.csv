@@ -1,0 +1,8 @@
+run,strategy,accuracy_mean,accuracy_sd,macro_f1_mean,macro_f1_sd,cohen_kappa_mean,cohen_kappa_sd,out_dir
+ollama__aya-expanse-8b,zero_shot,0.6846153846153846,0.0,0.5765559365705107,0.0,0.6151624548736462,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__aya-expanse-8b
+ollama__gemma3-12b,zero_shot,0.7153846153846154,0.0,0.6829550261143595,0.0,0.6494424604620654,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__gemma3-12b
+ollama__llama3.1-8b,zero_shot,0.6384615384615384,0.0,0.5090651481014501,0.0,0.5632906868701307,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__llama3.1-8b
+ollama__qwen2.5-14b-instruct,zero_shot,0.8076923076923077,0.0,0.7365431286312879,0.0,0.76541071170781,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__qwen2.5-14b-instruct
+ollama__qwen2.5-3b-instruct,zero_shot,0.43846153846153846,0.0,0.45937373199431936,0.0,0.31854085882521904,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__qwen2.5-3b-instruct
+ollama__qwen2.5-7b-instruct,zero_shot,0.5846153846153846,0.0,0.5061796238038474,0.0,0.5269541778975741,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__qwen2.5-7b-instruct
+ollama__qwen3-8b,zero_shot,0.0,0.0,0.0,0.0,0.0,0.0,C:\OccBuu\Paper2026\17_TruongTho\Paper4\code-p4\llm-benchmark\runs\ollama__qwen3-8b

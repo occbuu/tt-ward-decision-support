@@ -1,0 +1,1998 @@
+{
+  "schema": "ttll-paper4-rq4-v1",
+  "submitted_at": "2026-09-23T08:43:22.868Z",
+  "coder": "C",
+  "meta": {
+    "coder_id": "C",
+    "lang": "vi",
+    "filled": 198,
+    "n": 198
+  },
+  "protocol_review": {
+    "frame": "",
+    "prompts": "",
+    "notes": ""
+  },
+  "rows": [
+    {
+      "seg_id": "S001",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Chất lượng xe buýt và thái độ phục vụ chưa tốt",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S002",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S003",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm trung tâm thương mại",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S004",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S005",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S006",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S007",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S008",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S009",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây, Tôi có thể kiếm sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S010",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S011",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S012",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Ko ở trường thọ",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S013",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S014",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S015",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S016",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S017",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm các khu nhà ở",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S018",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S019",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S020",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S021",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S022",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Tôi có thể kiếm sống ở đây",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S023",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây, An ninh và An toàn",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S024",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S025",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S026",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S027",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S028",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S029",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S030",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S031",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S032",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S033",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S034",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S035",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S036",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Thuận tiện",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S037",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Không cảm thấy thoải mái khi phải đi bộ đến các trạm",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S038",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Có đầy đủ rồi",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S039",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S040",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S041",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Số lượng điểm dừng và tần suất các chuyến chưa đủ",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "MOBIL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S042",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S043",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Tôi có thể kiếm sống ở đây",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S044",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S045",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Tôi có thể kiếm sống ở đây",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S046",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S047",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S048",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S049",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S050",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S051",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S052",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S053",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S054",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S055",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S056",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S057",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S058",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S059",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S060",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S061",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S062",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Số lượng điểm dừng và tần suất các chuyến chưa đủ",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S063",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S064",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu",
+      "primary_code": "ENVIR",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S065",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm các khu nhà ở",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S066",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm các khu nhà ở",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S067",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S068",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "không có điều gì khác",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S069",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia tích cực",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S070",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S071",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm các khu nhà ở",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S072",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Không cảm thấy thoải mái khi phải đi bộ đến các trạm",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S073",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S074",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S075",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "không thêm gì hết",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S076",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S077",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S078",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S079",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S080",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S081",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S082",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S083",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S084",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích, Thêm nơi làm việc",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S085",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S086",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S087",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S088",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu",
+      "primary_code": "ENVIR",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S089",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S090",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S091",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "GOVERN",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S092",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S093",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S094",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S095",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Chất lượng xe buýt và thái độ phục vụ chưa tốt",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S096",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S097",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Bác gái không cần thêm gì, vì bác không muốn đòi hỏi",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S098",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Số lượng điểm dừng và tần suất các chuyến chưa đủ",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S099",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Tôi có thể kiếm sống ở đây, Dịch vụ giao thông công cộng ở đây rất tốt",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S100",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S101",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S102",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S103",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S104",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S105",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S106",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S107",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S108",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Tôi có thể kiếm sống ở đây",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S109",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S110",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S111",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "GOVERN",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S112",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S113",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S114",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S115",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S116",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S117",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Chất lượng xe buýt và thái độ phục vụ chưa tốt",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S118",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Chi phí bất động sản (Đất đai, Nhà cửa, vv)",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S119",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S120",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S121",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S122",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S123",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S124",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S125",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S126",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S127",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S128",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Hiện tại không biết",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S129",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S130",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S131",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S132",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Chi phí bất động sản (nhà cửa, đất đai) ở đây phù hợp với tôi",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S133",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S134",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S135",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S136",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S137",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S138",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S139",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S140",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S141",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S142",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S143",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S144",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S145",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S146",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S147",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S148",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S149",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S150",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S151",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S152",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Nơi này rất đáng sống, An ninh và An toàn",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S153",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S154",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S155",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "An ninh và An toàn",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S156",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi đã kinh doanh ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S157",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia tích cực",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S158",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S159",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Ở khu vực khác",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S160",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S161",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S162",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S163",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S164",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S165",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia tích cực",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S166",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "An ninh và An toàn",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S167",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S168",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S169",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S170",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S171",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Không cảm thấy thoải mái khi phải đi bộ đến các trạm",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S172",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm dịch vụ tiện ích",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S173",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S174",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia tích cực",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S175",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S176",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S177",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S178",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S179",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S180",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S181",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S182",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Số lượng điểm dừng và tần suất các chuyến chưa đủ",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S183",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu",
+      "primary_code": "ENVIR",
+      "secondary_code (optional)": "ENVIR",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S184",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Gia đình/họ hàng tôi sống ở đây",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S185",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S186",
+      "instrument": "Citizens",
+      "question": "Reason for choosing this place to live",
+      "text (Vietnamese)": "Chi phí bất động sản (Đất đai, Nhà cửa, vv)",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S187",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S188",
+      "instrument": "SMEs",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm trung tâm thương mại",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S189",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Tham gia vào phát triển khu vực nơi tôi sinh sống",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "1",
+      "note": ""
+    },
+    {
+      "seg_id": "S190",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in policy",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S191",
+      "instrument": "Citizens",
+      "question": "Desired form of participation in urban development",
+      "text (Vietnamese)": "Không tham gia",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S192",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Thói quen sử dụng xe máy để di chuyển",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S193",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Không cảm thấy thoải mái khi phải đi bộ đến các trạm",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S194",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Không cảm thấy thoải mái khi phải đi bộ đến các trạm",
+      "primary_code": "HABIT",
+      "secondary_code (optional)": "HABIT",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S195",
+      "instrument": "Citizens",
+      "question": "Reason for not using public transport",
+      "text (Vietnamese)": "Số lượng điểm dừng và tần suất các chuyến chưa đủ",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "3",
+      "note": ""
+    },
+    {
+      "seg_id": "S196",
+      "instrument": "Citizens",
+      "question": "Desired change in the area",
+      "text (Vietnamese)": "Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)",
+      "primary_code": "INFRA",
+      "secondary_code (optional)": "INFRA",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S197",
+      "instrument": "SMEs",
+      "question": "Main business challenge",
+      "text (Vietnamese)": "Các vấn đề liên quan môi trường kinh tế + thương mại",
+      "primary_code": "ECON",
+      "secondary_code (optional)": "ECON",
+      "confidence 1-3": "2",
+      "note": ""
+    },
+    {
+      "seg_id": "S198",
+      "instrument": "SMEs",
+      "question": "Reason for choosing this business location",
+      "text (Vietnamese)": "Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này",
+      "primary_code": "SOCIAL",
+      "secondary_code (optional)": "SOCIAL",
+      "confidence 1-3": "2",
+      "note": ""
+    }
+  ]
+}

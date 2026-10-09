@@ -1,0 +1,5 @@
+﻿check,instrument,row,field,value,action
+out_of_scale,Citizens,458,Q2.9_MucDo_TiepCan_KGCC,7.0,set to missing
+out_of_scale,Citizens,459,Q2.9_MucDo_TiepCan_KGCC,7.0,set to missing
+coordinate_out_of_region,Citizens,199,Lat/Long,"10.846914774367,6.76643448945508",drop from spatial analysis
+high_missingness,Citizens,-1,Email,0.954,review (branch field?)

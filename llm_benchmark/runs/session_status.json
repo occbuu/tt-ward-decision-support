@@ -1,0 +1,58 @@
+[
+  {
+    "model": "qwen2.5:3b-instruct",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__qwen2.5-3b-instruct",
+    "error": "",
+    "served_model": "qwen2.5:3b-instruct"
+  },
+  {
+    "model": "qwen2.5:7b-instruct",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__qwen2.5-7b-instruct",
+    "error": "",
+    "served_model": "qwen2.5:7b-instruct"
+  },
+  {
+    "model": "qwen2.5:14b-instruct",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__qwen2.5-14b-instruct",
+    "error": "",
+    "served_model": "qwen2.5:14b-instruct"
+  },
+  {
+    "model": "qwen3:8b",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__qwen3-8b",
+    "error": "",
+    "served_model": "qwen3:8b"
+  },
+  {
+    "model": "llama3.1:8b",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__llama3.1-8b",
+    "error": "",
+    "served_model": "llama3.1:8b"
+  },
+  {
+    "model": "gemma3:12b",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__gemma3-12b",
+    "error": "",
+    "served_model": "gemma3:12b"
+  },
+  {
+    "model": "aya-expanse:8b",
+    "backend": "ollama",
+    "status": "ok",
+    "out": "runs/ollama__aya-expanse-8b",
+    "error": "",
+    "served_model": "aya-expanse:8b"
+  }
+]

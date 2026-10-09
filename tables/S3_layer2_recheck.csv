@@ -1,0 +1,5 @@
+﻿statistic,value,benchmark_paper1,status
+Cronbach's alpha (6 burden items),0.846,0.846,PASS
+KMO (13 Likert items),0.841,0.843,PASS
+"Moran's I, flooding (KNN k=8)",+0.1834,+0.1834,PASS
+Geolocated respondents,539,539,PASS

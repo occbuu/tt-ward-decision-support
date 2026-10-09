@@ -1,0 +1,7 @@
+﻿coder_id,expected_n,rows_in_export,unique_seg_ids,coded_n,missing_code_n,invalid_code_n,duplicate_seg_id_n,missing_seg_id_n,extra_seg_id_n,text_mismatch_n,instrument_mismatch_n
+A,198,198,198,198,0,0,0,0,0,0,0
+B,198,198,198,197,1,0,0,0,0,0,0
+C,198,198,198,198,0,0,0,0,0,0,0
+D,198,198,198,198,0,0,0,0,0,0,0
+E,198,198,198,198,0,0,0,0,0,0,0
+F,198,198,198,198,0,0,0,0,0,0,0

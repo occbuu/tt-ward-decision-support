@@ -1,0 +1,131 @@
+seg_id,instrument,field,field_desc,text
+S001,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+S002,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S003,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm trung tâm thương mại
+S004,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S005,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S006,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+S007,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S010,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S011,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S012,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Ko ở trường thọ
+S017,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm các khu nhà ở
+S019,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S021,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S022,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Tôi có thể kiếm sống ở đây
+S023,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,"Gia đình/họ hàng tôi sống ở đây, An ninh và An toàn"
+S026,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S027,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S028,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S032,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S033,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S036,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Thuận tiện
+S037,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+S038,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Có đầy đủ rồi
+S039,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S041,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+S042,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S043,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Tôi có thể kiếm sống ở đây
+S045,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Tôi có thể kiếm sống ở đây
+S048,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+S049,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S050,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S052,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S055,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S057,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S061,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S062,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+S063,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S064,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+S065,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm các khu nhà ở
+S066,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm các khu nhà ở
+S067,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S068,SMEs,Q4.6_ThachThuc,Main business challenge,không có điều gì khác
+S070,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S071,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm các khu nhà ở
+S072,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+S073,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S074,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S075,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,không thêm gì hết
+S076,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S078,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S079,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S080,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S081,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S082,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S083,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+S084,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+S085,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S086,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm nơi làm việc
+S087,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S088,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+S089,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm nơi làm việc
+S090,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+S095,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+S096,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm nơi làm việc
+S097,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+S098,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+S100,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S102,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S103,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S104,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S106,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S107,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S108,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Tôi có thể kiếm sống ở đây
+S109,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S110,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S112,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S113,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S117,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+S118,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+S119,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S120,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+S121,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S122,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S123,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S124,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S125,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S127,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S128,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,Hiện tại không biết
+S129,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S130,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S131,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S132,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,"Chi phí bất động sản (nhà cửa, đất đai) ở đây phù hợp với tôi"
+S133,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S136,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S137,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S138,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S140,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+S141,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S144,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S147,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S148,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S149,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S150,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S151,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S152,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,"Nơi này rất đáng sống, An ninh và An toàn"
+S155,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,An ninh và An toàn
+S156,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Gia đình/họ hàng tôi đã kinh doanh ở đây
+S158,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S159,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Ở khu vực khác
+S162,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S166,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,An ninh và An toàn
+S168,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S171,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+S172,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm dịch vụ tiện ích
+S173,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S177,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S180,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S182,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+S183,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+S184,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,Gia đình/họ hàng tôi sống ở đây
+S185,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S186,Citizens,Q3.1_LyDo_ChonNoiSong,Reason for choosing this place to live,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+S188,SMEs,Q4.12_MM_ThayDoi,Desired change in the area,Thêm trung tâm thương mại
+S192,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Thói quen sử dụng xe máy để di chuyển
+S193,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+S194,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+S195,Citizens,Q2.8_LyDo_KSD_PTCC,Reason for not using public transport,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+S196,Citizens,Q4.10_MongMuon_ThayDoi,Desired change in the area,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+S197,SMEs,Q4.6_ThachThuc,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại
+S198,SMEs,Q3.1_LyDo_ChonNoiKD,Reason for choosing this business location,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này

@@ -1,0 +1,7 @@
+﻿source_a,source_b,spearman_rho,p
+residents,experts,0.314,0.5441
+residents,authority agenda,0.086,0.8717
+residents,data legibility,-0.714,0.1108
+experts,authority agenda,-0.6,0.208
+experts,data legibility,-0.657,0.1562
+authority agenda,data legibility,0.429,0.3965

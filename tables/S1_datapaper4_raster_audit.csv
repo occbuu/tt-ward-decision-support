@@ -1,0 +1,17 @@
+﻿layer,file,crs,width,height,bands,pct_points_in_bbox,pct_points_valid
+02_ghsl_pop_built,ghsl_built_2020_100m.tif,ESRI:54009,31,32,1,,
+02_ghsl_pop_built,ghsl_built_2025_100m.tif,ESRI:54009,31,32,1,,
+02_ghsl_pop_built,ghsl_built_change_100m.tif,ESRI:54009,31,32,1,,
+02_ghsl_pop_built,ghsl_pop_2020_100m.tif,ESRI:54009,31,32,1,,
+02_ghsl_pop_built,ghsl_pop_2025_100m.tif,ESRI:54009,31,32,1,,
+02_ghsl_pop_built,ghsl_pop_change_100m.tif,ESRI:54009,31,32,1,,
+03_sentinel_indices,s1_sar_vh_2023.tif,EPSG:4326,279,279,1,32.8,100.0
+03_sentinel_indices,s2_indices_2023.tif,EPSG:4326,279,279,2,32.8,100.0
+03_sentinel_indices,s2_indices_2025.tif,EPSG:4326,279,279,2,32.8,100.0
+03_sentinel_indices,s2_indices_diff.tif,EPSG:4326,279,279,2,32.8,100.0
+04_landsat_lst,lst_2023.tif,EPSG:4326,279,279,1,32.8,32.8
+04_landsat_lst,lst_2025.tif,EPSG:4326,279,279,1,32.8,32.8
+04_landsat_lst,lst_change.tif,EPSG:4326,279,279,1,32.8,32.8
+05_copernicus_dem,copernicus_dem_30m.tif,EPSG:4326,127,127,1,65.5,100.0
+06_sentinel5p_no2,sentinel5p_no2_2023.tif,EPSG:4326,279,279,1,32.8,32.8
+07_jrc_surface_water,jrc_water_occurrence.tif,EPSG:4326,94,93,1,32.8,100.0

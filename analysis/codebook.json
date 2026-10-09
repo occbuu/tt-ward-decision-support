@@ -1,0 +1,74 @@
+{
+  "instruments": {
+    "Citizens": {
+      "n": 460,
+      "role": "ML training set (RQ3)"
+    },
+    "SMEs": {
+      "n": 80,
+      "role": "transfer validation set (RQ3)"
+    },
+    "Experts": {
+      "n": 41,
+      "role": "barrier diagnosis (RQ1)"
+    },
+    "Authorities": {
+      "n": 23,
+      "role": "institutional comparison (RQ1)"
+    }
+  },
+  "scales": {
+    "severity_1_5": {
+      "Không có": 1,
+      "Thấp": 2,
+      "Trung bình": 3,
+      "Cao": 4,
+      "Nguy hiểm": 5
+    },
+    "effectiveness_1_5": {
+      "Rất khó khăn": 1,
+      "Còn nhiều khó khăn": 2,
+      "Trung bình": 3,
+      "Hiệu quả": 4,
+      "Rất hiệu quả": 5
+    },
+    "agreement_1_5": {
+      "Rất không đồng ý": 1,
+      "Không đồng ý": 2,
+      "Không ý kiến": 3,
+      "Đồng ý": 4,
+      "Rất đồng ý": 5
+    }
+  },
+  "barrier_matrix": {
+    "A1": {
+      "label_en": "Technical / expertise / natural conditions",
+      "class": "TECHNICAL"
+    },
+    "A2": {
+      "label_en": "Financial",
+      "class": "RESOURCE"
+    },
+    "A3": {
+      "label_en": "High-quality human resources",
+      "class": "RESOURCE"
+    },
+    "A4": {
+      "label_en": "Policy and legal framework",
+      "class": "INSTITUTIONAL"
+    },
+    "A5": {
+      "label_en": "Social characteristics (awareness, culture)",
+      "class": "SOCIAL"
+    }
+  },
+  "dt_barriers": {
+    "Inter-agency coordination mechanisms": "INSTITUTIONAL",
+    "Unclear policy": "INSTITUTIONAL",
+    "Data access": "INSTITUTIONAL",
+    "Insufficient budget": "RESOURCE",
+    "Divergent expertise across departments": "INSTITUTIONAL",
+    "Insufficient personnel": "RESOURCE",
+    "No transformation needed": "OTHER"
+  }
+}

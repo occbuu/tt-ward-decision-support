@@ -1,0 +1,4 @@
+strategy,repeat,n,accuracy,macro_f1,cohen_kappa,invalid_or_failed,accuracy_low,accuracy_high,macro_f1_low,macro_f1_high,cohen_kappa_low,cohen_kappa_high
+zero_shot,1,130,0.0,0.0,0.0,130,0.0,0.0,0.0,0.0,0.0,0.0
+zero_shot,2,130,0.0,0.0,0.0,130,0.0,0.0,0.0,0.0,0.0,0.0
+zero_shot,3,130,0.0,0.0,0.0,130,0.0,0.0,0.0,0.0,0.0,0.0

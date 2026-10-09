@@ -1,0 +1,4 @@
+﻿subset,n_items,fleiss_kappa,krippendorff_alpha_nominal,strict_majority_n,strict_majority_share,adjudication_n,adjudication_share
+all_fields,198,0.4561073304597303,0.45781749266524274,123,0.6212121212121212,75,0.3787878787878788
+participation_fields,66,-0.02632794457274831,-0.023736207338978632,0,0.0,66,1.0
+substantive_fields_excluding_participation,132,0.6666245243698027,0.6681645462393004,123,0.9318181818181818,9,0.06818181818181818

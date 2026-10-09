@@ -1,0 +1,1 @@
+The notebook reproduces RQ1–RQ3 from the 2023 survey workbooks and the Paper 1 open-data table. Those files include household coordinates and are not in this public folder. `codebook.json` and `paper4_results.json` contain the scalar outputs reported in the manuscript.

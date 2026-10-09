@@ -1,0 +1,67 @@
+﻿seg_id,instrument,field_desc,text,A,B,C,D,E,F,top_count,agreement_share,tied_codes
+S008,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,SOCIAL,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA|SOCIAL
+S013,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S014,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S015,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S016,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S018,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S020,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S024,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S025,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S029,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S030,Citizens,Desired form of participation in urban development,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S031,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S034,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S035,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S040,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,INFRA,INFRA,GOVERN,SOCIAL,GOVERN,3,0.5,
+S044,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S046,Citizens,Desired form of participation in policy,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S047,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S051,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S053,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S054,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S056,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S058,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S059,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S060,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S069,Citizens,Desired form of participation in urban development,Tham gia tích cực,GOVERN,HABIT,HABIT,GOVERN,OTHER,GOVERN,3,0.5,
+S077,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S091,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S092,Citizens,Desired form of participation in policy,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S093,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,
+S094,Citizens,Desired form of participation in policy,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S101,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S105,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S111,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S114,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S115,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S116,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S126,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S134,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,GOVERN,GOVERN,3,0.5,
+S135,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S139,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S142,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,OTHER,HABIT,GOVERN,OTHER,OTHER,3,0.5,
+S143,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,
+S145,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,ECON,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,ECON|GOVERN
+S146,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S153,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S154,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|INFRA
+S157,Citizens,Desired form of participation in policy,Tham gia tích cực,GOVERN,HABIT,HABIT,GOVERN,OTHER,GOVERN,3,0.5,
+S160,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S161,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S163,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S164,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S165,Citizens,Desired form of participation in policy,Tham gia tích cực,GOVERN,HABIT,INFRA,GOVERN,OTHER,GOVERN,3,0.5,
+S167,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,INFRA,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S169,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S170,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,GOVERN|HABIT|OTHER
+S174,Citizens,Desired form of participation in urban development,Tham gia tích cực,GOVERN,HABIT,HABIT,GOVERN,OTHER,GOVERN,3,0.5,
+S175,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,GOVERN|HABIT|OTHER
+S176,Citizens,Desired form of participation in urban development,Không tham gia,GOVERN,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,GOVERN|HABIT|OTHER
+S178,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,GOVERN|HABIT|OTHER
+S179,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,INFRA,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,
+S181,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,HABIT|OTHER
+S187,Citizens,Desired form of participation in policy,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S189,Citizens,Desired form of participation in urban development,Tham gia vào phát triển khu vực nơi tôi sinh sống,SOCIAL,ECON,HABIT,GOVERN,SOCIAL,GOVERN,2,0.3333333333333333,GOVERN|SOCIAL
+S190,Citizens,Desired form of participation in policy,Không tham gia,GOVERN,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,GOVERN|HABIT|OTHER
+S191,Citizens,Desired form of participation in urban development,Không tham gia,INFRA,HABIT,HABIT,GOVERN,OTHER,OTHER,2,0.3333333333333333,HABIT|OTHER

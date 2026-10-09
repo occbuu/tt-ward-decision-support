@@ -1,0 +1,11 @@
+﻿increment,scheme,delta_r2,ci_low,ci_high,p_boot,significant
+open data added to demographics (linear),random 5-fold,0.0336,-0.0137,0.0821,0.175,no
+open data added to demographics (linear),spatial block,-0.0805,-0.1699,0.0044,0.06,no
+open data added to demographics (nonlinear),random 5-fold,0.0048,-0.0555,0.0665,0.856,no
+open data added to demographics (nonlinear),spatial block,-0.0092,-0.0866,0.0654,0.816,no
+survey archive added to demographics,random 5-fold,0.2026,0.1413,0.2647,0.0005,yes
+survey archive added to demographics,spatial block,0.2125,0.1502,0.2781,0.0005,yes
+open data added on top of the survey archive,random 5-fold,-0.0106,-0.0614,0.0441,0.703,no
+open data added on top of the survey archive,spatial block,-0.0618,-0.1167,-0.0055,0.034,yes
+nonlinearity added on top of linear open data,random 5-fold,-0.0288,-0.069,0.0148,0.18,no
+nonlinearity added on top of linear open data,spatial block,0.0713,0.0088,0.1389,0.023,yes

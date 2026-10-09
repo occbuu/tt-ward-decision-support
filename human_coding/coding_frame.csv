@@ -1,0 +1,9 @@
+﻿code,label,indicators
+INFRA,Infrastructure and physical environment,"roads, drainage, flooding, buildings, utilities, public space"
+MOBIL,Mobility and transport,"traffic, congestion, distance, travel time, vehicles, public transport"
+ENVIR,Environmental quality,"air, noise, water, waste, greenery, heat"
+ECON,Economic and livelihood,"cost, income, business, employment, rent, customers"
+SOCIAL,Social and community,"family, neighbours, community, safety, security, schooling, health services"
+GOVERN,Governance and administration,"policy, officials, procedures, participation, information, planning"
+HABIT,"Habit, preference and convenience","used to it, convenient, prefer, no particular reason"
+OTHER,Other or uncodable,"anything not covered above, or too vague to code"

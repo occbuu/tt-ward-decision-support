@@ -1,0 +1,677 @@
+{
+  "checks": "All 21 runs match original inputs and gold, exact prompts, response labels, file hashes and independent score/CI recomputation.",
+  "unique_test_items": 130,
+  "models": 7,
+  "requests": 2730,
+  "normalized_question_text_groups": 38,
+  "duplicate_group_size_distribution": {
+    "3": 3,
+    "16": 1,
+    "2": 7,
+    "18": 1,
+    "7": 2,
+    "1": 18,
+    "17": 1,
+    "4": 2,
+    "6": 1,
+    "5": 2
+  },
+  "conflicting_duplicate_gold_groups": [
+    {
+      "seg_ids": [
+        "S037",
+        "S072",
+        "S171",
+        "S193",
+        "S194"
+      ],
+      "gold_counts": {
+        "HABIT": 2,
+        "MOBIL": 3
+      }
+    },
+    {
+      "seg_ids": [
+        "S048",
+        "S090"
+      ],
+      "gold_counts": {
+        "MOBIL": 1,
+        "INFRA": 1
+      }
+    }
+  ],
+  "gold_support": {
+    "MOBIL": 12,
+    "INFRA": 41,
+    "HABIT": 21,
+    "ECON": 16,
+    "SOCIAL": 30,
+    "OTHER": 7,
+    "ENVIR": 3
+  },
+  "runs": [
+    {
+      "model": "aya-expanse:8b",
+      "repeat": 1,
+      "accuracy": 0.6846153846153846,
+      "macro_f1": 0.5765559365705107,
+      "cohen_kappa": 0.6151624548736462,
+      "invalid_or_failed": 1,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 125,
+      "n": 130
+    },
+    {
+      "model": "aya-expanse:8b",
+      "repeat": 2,
+      "accuracy": 0.6846153846153846,
+      "macro_f1": 0.5765559365705107,
+      "cohen_kappa": 0.6151624548736462,
+      "invalid_or_failed": 1,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 125,
+      "n": 130
+    },
+    {
+      "model": "aya-expanse:8b",
+      "repeat": 3,
+      "accuracy": 0.6846153846153846,
+      "macro_f1": 0.5765559365705107,
+      "cohen_kappa": 0.6151624548736462,
+      "invalid_or_failed": 1,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 123,
+      "n": 130
+    },
+    {
+      "model": "gemma3:12b",
+      "repeat": 1,
+      "accuracy": 0.7153846153846154,
+      "macro_f1": 0.6829550261143595,
+      "cohen_kappa": 0.6494424604620654,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 119,
+      "n": 130
+    },
+    {
+      "model": "gemma3:12b",
+      "repeat": 2,
+      "accuracy": 0.7153846153846154,
+      "macro_f1": 0.6829550261143595,
+      "cohen_kappa": 0.6494424604620654,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 124,
+      "n": 130
+    },
+    {
+      "model": "gemma3:12b",
+      "repeat": 3,
+      "accuracy": 0.7153846153846154,
+      "macro_f1": 0.6829550261143595,
+      "cohen_kappa": 0.6494424604620654,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 120,
+      "n": 130
+    },
+    {
+      "model": "llama3.1:8b",
+      "repeat": 1,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 120,
+      "n": 130
+    },
+    {
+      "model": "llama3.1:8b",
+      "repeat": 2,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 125,
+      "n": 130
+    },
+    {
+      "model": "llama3.1:8b",
+      "repeat": 3,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 118,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:14b-instruct",
+      "repeat": 1,
+      "accuracy": 0.8076923076923077,
+      "macro_f1": 0.7365431286312879,
+      "cohen_kappa": 0.76541071170781,
+      "invalid_or_failed": 2,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 117,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:14b-instruct",
+      "repeat": 2,
+      "accuracy": 0.8076923076923077,
+      "macro_f1": 0.7365431286312879,
+      "cohen_kappa": 0.76541071170781,
+      "invalid_or_failed": 2,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 116,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:14b-instruct",
+      "repeat": 3,
+      "accuracy": 0.8076923076923077,
+      "macro_f1": 0.7365431286312879,
+      "cohen_kappa": 0.76541071170781,
+      "invalid_or_failed": 2,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 120,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:3b-instruct",
+      "repeat": 1,
+      "accuracy": 0.43846153846153846,
+      "macro_f1": 0.45937373199431936,
+      "cohen_kappa": 0.31854085882521904,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 123,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:3b-instruct",
+      "repeat": 2,
+      "accuracy": 0.43846153846153846,
+      "macro_f1": 0.45937373199431936,
+      "cohen_kappa": 0.31854085882521904,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 113,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:3b-instruct",
+      "repeat": 3,
+      "accuracy": 0.43846153846153846,
+      "macro_f1": 0.45937373199431936,
+      "cohen_kappa": 0.31854085882521904,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 120,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:7b-instruct",
+      "repeat": 1,
+      "accuracy": 0.5846153846153846,
+      "macro_f1": 0.5061796238038474,
+      "cohen_kappa": 0.5269541778975741,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 122,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:7b-instruct",
+      "repeat": 2,
+      "accuracy": 0.5846153846153846,
+      "macro_f1": 0.5061796238038474,
+      "cohen_kappa": 0.5269541778975741,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 121,
+      "n": 130
+    },
+    {
+      "model": "qwen2.5:7b-instruct",
+      "repeat": 3,
+      "accuracy": 0.5846153846153846,
+      "macro_f1": 0.5061796238038474,
+      "cohen_kappa": 0.5269541778975741,
+      "invalid_or_failed": 0,
+      "finish_reasons": {
+        "stop": 130
+      },
+      "unique_response_ids": 123,
+      "n": 130
+    },
+    {
+      "model": "qwen3:8b",
+      "repeat": 1,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "finish_reasons": {
+        "length": 130
+      },
+      "unique_response_ids": 122,
+      "n": 130
+    },
+    {
+      "model": "qwen3:8b",
+      "repeat": 2,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "finish_reasons": {
+        "length": 130
+      },
+      "unique_response_ids": 123,
+      "n": 130
+    },
+    {
+      "model": "qwen3:8b",
+      "repeat": 3,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "finish_reasons": {
+        "length": 130
+      },
+      "unique_response_ids": 118,
+      "n": 130
+    }
+  ],
+  "models_summary": [
+    {
+      "model": "qwen2.5:14b-instruct",
+      "correct": 105,
+      "n": 130,
+      "accuracy": 0.8076923076923077,
+      "macro_f1": 0.7365431286312879,
+      "cohen_kappa": 0.76541071170781,
+      "invalid_or_failed": 2,
+      "macro_f1_supported7": 0.8417635755786148,
+      "accuracy_low": 0.7384615384615385,
+      "accuracy_high": 0.8769230769230769,
+      "macro_f1_low": 0.609984166467743,
+      "macro_f1_high": 0.7861593064956172,
+      "cohen_kappa_low": 0.6806744779719017,
+      "cohen_kappa_high": 0.8481092152371801,
+      "cluster_accuracy_low": 0.6212081339712918,
+      "cluster_accuracy_high": 0.9180351835873838,
+      "cluster_macro_f1_low": 0.46076380518273347,
+      "cluster_macro_f1_high": 0.792810971384762,
+      "cluster_cohen_kappa_low": 0.5314651318757297,
+      "cluster_cohen_kappa_high": 0.8929370458578434,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "gemma3:12b",
+      "correct": 93,
+      "n": 130,
+      "accuracy": 0.7153846153846154,
+      "macro_f1": 0.6829550261143595,
+      "cohen_kappa": 0.6494424604620654,
+      "invalid_or_failed": 0,
+      "macro_f1_supported7": 0.7805200298449823,
+      "accuracy_low": 0.6307692307692307,
+      "accuracy_high": 0.7923076923076923,
+      "macro_f1_low": 0.5537301278112235,
+      "macro_f1_high": 0.7354978845482384,
+      "cohen_kappa_low": 0.5518438448284717,
+      "cohen_kappa_high": 0.7391149209739513,
+      "cluster_accuracy_low": 0.47512006797694695,
+      "cluster_accuracy_high": 0.8988851145370612,
+      "cluster_macro_f1_low": 0.3994994448730862,
+      "cluster_macro_f1_high": 0.757480638394075,
+      "cluster_cohen_kappa_low": 0.3694326026241087,
+      "cluster_cohen_kappa_high": 0.8627598004868144,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "aya-expanse:8b",
+      "correct": 89,
+      "n": 130,
+      "accuracy": 0.6846153846153846,
+      "macro_f1": 0.5765559365705107,
+      "cohen_kappa": 0.6151624548736462,
+      "invalid_or_failed": 1,
+      "macro_f1_supported7": 0.658921070366298,
+      "accuracy_low": 0.6,
+      "accuracy_high": 0.7615384615384615,
+      "macro_f1_low": 0.47244647681767743,
+      "macro_f1_high": 0.6552532712803213,
+      "cohen_kappa_low": 0.5181677291671244,
+      "cohen_kappa_high": 0.7042188148125168,
+      "cluster_accuracy_low": 0.437056190649005,
+      "cluster_accuracy_high": 0.873796052208577,
+      "cluster_macro_f1_low": 0.34737448839565993,
+      "cluster_macro_f1_high": 0.7041187398969472,
+      "cluster_cohen_kappa_low": 0.33645293355071626,
+      "cluster_cohen_kappa_high": 0.8308569397908416,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "llama3.1:8b",
+      "correct": 83,
+      "n": 130,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "macro_f1_supported7": 0.5817887406873715,
+      "accuracy_low": 0.5615384615384615,
+      "accuracy_high": 0.7230769230769231,
+      "macro_f1_low": 0.4235601624069993,
+      "macro_f1_high": 0.5738847153103043,
+      "cohen_kappa_low": 0.4714269284882148,
+      "cohen_kappa_high": 0.6556056975505281,
+      "cluster_accuracy_low": 0.3840685286495825,
+      "cluster_accuracy_high": 0.8545558639833448,
+      "cluster_macro_f1_low": 0.36829614760942136,
+      "cluster_macro_f1_high": 0.6738108611028816,
+      "cluster_cohen_kappa_low": 0.29402228703305555,
+      "cluster_cohen_kappa_high": 0.7979500625303277,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "qwen2.5:7b-instruct",
+      "correct": 76,
+      "n": 130,
+      "accuracy": 0.5846153846153846,
+      "macro_f1": 0.5061796238038474,
+      "cohen_kappa": 0.5269541778975741,
+      "invalid_or_failed": 0,
+      "macro_f1_supported7": 0.5784909986329685,
+      "accuracy_low": 0.5,
+      "accuracy_high": 0.6692307692307692,
+      "macro_f1_low": 0.434912244084855,
+      "macro_f1_high": 0.5657899304043571,
+      "cohen_kappa_low": 0.43598891328294975,
+      "cohen_kappa_high": 0.6182222062429537,
+      "cluster_accuracy_low": 0.3333333333333333,
+      "cluster_accuracy_high": 0.8079579252091842,
+      "cluster_macro_f1_low": 0.29497322282347627,
+      "cluster_macro_f1_high": 0.6613755311046977,
+      "cluster_cohen_kappa_low": 0.2748779998972221,
+      "cluster_cohen_kappa_high": 0.7504726437132382,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "qwen2.5:3b-instruct",
+      "correct": 57,
+      "n": 130,
+      "accuracy": 0.43846153846153846,
+      "macro_f1": 0.45937373199431936,
+      "cohen_kappa": 0.31854085882521904,
+      "invalid_or_failed": 0,
+      "macro_f1_supported7": 0.5249985508506507,
+      "accuracy_low": 0.34615384615384615,
+      "accuracy_high": 0.5230769230769231,
+      "macro_f1_low": 0.3288855956898139,
+      "macro_f1_high": 0.5018178498264443,
+      "cohen_kappa_low": 0.22465162317271994,
+      "cohen_kappa_high": 0.40739690055847466,
+      "cluster_accuracy_low": 0.2198581560283688,
+      "cluster_accuracy_high": 0.6939007421150277,
+      "cluster_macro_f1_low": 0.2577929801653343,
+      "cluster_macro_f1_high": 0.5474483969762373,
+      "cluster_cohen_kappa_low": 0.12756946079197423,
+      "cluster_cohen_kappa_high": 0.5640469256259766,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    },
+    {
+      "model": "qwen3:8b",
+      "correct": 0,
+      "n": 130,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "macro_f1_supported7": 0.0,
+      "accuracy_low": 0.0,
+      "accuracy_high": 0.0,
+      "macro_f1_low": 0.0,
+      "macro_f1_high": 0.0,
+      "cohen_kappa_low": 0.0,
+      "cohen_kappa_high": 0.0,
+      "cluster_accuracy_low": 0.0,
+      "cluster_accuracy_high": 0.0,
+      "cluster_macro_f1_low": 0.0,
+      "cluster_macro_f1_high": 0.0,
+      "cluster_cohen_kappa_low": 0.0,
+      "cluster_cohen_kappa_high": 0.0,
+      "prediction_disagreements_between_repeats": 0,
+      "raw_content_identical_between_repeats": true
+    }
+  ],
+  "model_metadata": [
+    {
+      "model": "aya-expanse:8b",
+      "started_utc": "2026-10-08T10:25:31.523910+00:00",
+      "finished_utc": "2026-10-08T10:26:06.456361+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "65f986688a01b456158c57b042bc48afcb85d060646a82d491d1c0a01375b10e",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "gemma3:12b",
+      "started_utc": "2026-10-08T10:23:36.581089+00:00",
+      "finished_utc": "2026-10-08T10:25:16.108222+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "f4031aab637d1ffa37b42570452ae0e4fad0314754d17ded67322e4b95836f8a",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "llama3.1:8b",
+      "started_utc": "2026-10-08T10:22:26.152694+00:00",
+      "finished_utc": "2026-10-08T10:23:00.569318+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "qwen2.5:14b-instruct",
+      "started_utc": "2026-10-08T10:17:20.494224+00:00",
+      "finished_utc": "2026-10-08T10:18:10.096168+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "qwen2.5:3b-instruct",
+      "started_utc": "2026-10-08T09:42:04.030231+00:00",
+      "finished_utc": "2026-10-08T10:17:05.687128+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "qwen2.5:7b-instruct",
+      "started_utc": "2026-10-08T09:42:32.648873+00:00",
+      "finished_utc": "2026-10-08T10:17:09.453204+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    },
+    {
+      "model": "qwen3:8b",
+      "started_utc": "2026-10-08T10:18:56.962253+00:00",
+      "finished_utc": "2026-10-08T10:22:22.164844+00:00",
+      "request_options": {
+        "temperature": 0.0,
+        "max_tokens": 32
+      },
+      "model_revision_or_weights_hash": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+      "inference_engine_and_version": "ollama version is 0.40.1",
+      "quantization": "Q4_K_M",
+      "hardware": "Windows-11-10.0.26300-SP0 | GPU NVIDIA GeForce RTX 5060 Ti, 16311 MiB | RAM 31.8GB"
+    }
+  ],
+  "raw_file_hashes": [
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__aya-expanse-8b\\zero_shot_run1.jsonl",
+      "sha256": "2178cbb65d09f53d3ac73592cae592973eb0cd3c71f3adda8702a29bf4fa748c"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__aya-expanse-8b\\zero_shot_run2.jsonl",
+      "sha256": "c2f36ba8cc212c0d7edcf933a49764b0485a1b509ade1fdc9bcffb2a18a7ff49"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__aya-expanse-8b\\zero_shot_run3.jsonl",
+      "sha256": "1e3e28dbbae76a3bbcc2360a38143f9bacda65cd47729fc3fe1757a5da8c116e"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__gemma3-12b\\zero_shot_run1.jsonl",
+      "sha256": "ec715f24da095f375ff399c4ebac1cd020933b125dbe720bc0c7b5e739d1d23f"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__gemma3-12b\\zero_shot_run2.jsonl",
+      "sha256": "0cc6db9dfc01e775a1b786597d1321b474b28c051cabab60e3248f3993a151db"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__gemma3-12b\\zero_shot_run3.jsonl",
+      "sha256": "c78871a475c8176ca5d2820e9e64e1ea061cb5e1beb7af13018acc283b10d22a"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__llama3.1-8b\\zero_shot_run1.jsonl",
+      "sha256": "9ed5d3ede02a0d8d67ff6a0eeeee735e26cacac22e216e99c2a31208e9e7d6ab"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__llama3.1-8b\\zero_shot_run2.jsonl",
+      "sha256": "8bdc851df28becef649f47c56860d647b424be31970a511e3ca7348711db3d4f"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__llama3.1-8b\\zero_shot_run3.jsonl",
+      "sha256": "ce5cca182fd2e28675f7c47661056cf527b5b068fd3c411e7e1296a89145faf7"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-14b-instruct\\zero_shot_run1.jsonl",
+      "sha256": "de912f9aaa846ffba2ec1493926c625fe34c05e2ca95c9b8c82154f03f07f933"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-14b-instruct\\zero_shot_run2.jsonl",
+      "sha256": "b8af1c961bde54d57a798fb403ca97dead2003e8ff99c75ef79f1d32f3fda9e7"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-14b-instruct\\zero_shot_run3.jsonl",
+      "sha256": "6f11cb21fc782c3df0de20f067d5a9fe5bb27b83f3e000ab91bd457d3f967a4c"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-3b-instruct\\zero_shot_run1.jsonl",
+      "sha256": "474fafb7d826e325c0d4f4d17112ded6121f06d85a00a6e8f96f17b5d4837aef"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-3b-instruct\\zero_shot_run2.jsonl",
+      "sha256": "ae69e794f31eb0da88a994a471658c0927402276d7bcd31d42567401b5758c8b"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-3b-instruct\\zero_shot_run3.jsonl",
+      "sha256": "1c6236214b2136247881b0b970bba7f4f6b0d1430e7efbc1df8059c485f9c2a6"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-7b-instruct\\zero_shot_run1.jsonl",
+      "sha256": "ee28fb10a85ca56c87d73c21f2a5608a98799a5342e672d9eb32eda4e5ceabc9"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-7b-instruct\\zero_shot_run2.jsonl",
+      "sha256": "e0c3061cca6ae958754ac2b16a8c656c1caf8b5e5c0320399f9fd7b57e90373e"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen2.5-7b-instruct\\zero_shot_run3.jsonl",
+      "sha256": "35882d62a910dd7c51ff3251607b50bb60ecbf7c750135a8fcf4808873b1c594"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen3-8b\\zero_shot_run1.jsonl",
+      "sha256": "3408b1bc4d1dc182f75ca533495417a5e904f674c3dbc3cbd68eaf46b37eb03d"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen3-8b\\zero_shot_run2.jsonl",
+      "sha256": "409f7d783883cfc2808b23438717c4b62f7bcc9c5469c197de224a63321e4702"
+    },
+    {
+      "file": "code-p4\\llm-benchmark\\runs\\ollama__qwen3-8b\\zero_shot_run3.jsonl",
+      "sha256": "6155441a4024e9232cd0cc34007192ccf35530c3ccb5f61d89e63e6b491bb3b8"
+    }
+  ]
+}

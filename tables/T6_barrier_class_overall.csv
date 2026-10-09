@@ -1,0 +1,6 @@
+﻿barrier_code,barrier_en,class,n_ratings,mean,sd,ci_low,ci_high
+A5,"Social characteristics (awareness, culture)",SOCIAL,193,3.233,1.217,3.067,3.404
+A4,Policy and legal framework,INSTITUTIONAL,194,3.057,1.347,2.861,3.258
+A3,High-quality human resources,RESOURCE,188,3.005,1.294,2.824,3.186
+A1,Technical / expertise / natural conditions,TECHNICAL,186,2.93,1.23,2.753,3.086
+A2,Financial,RESOURCE,188,2.92,1.312,2.739,3.112

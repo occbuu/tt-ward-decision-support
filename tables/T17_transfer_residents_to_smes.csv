@@ -1,0 +1,7 @@
+﻿feature_set,model,n_features,r2_residents_blockcv,r2_smes_transfer,r2_smes_ci,mae_smes,spearman_rho,spearman_p
+open data only,OLS,34,-0.3514,-0.2947,"[-0.840, 0.013]",0.6557,0.212,0.0589
+open data only,GBM,34,-0.2395,-0.3475,"[-0.903, -0.013]",0.6788,0.189,0.0933
+survey archive only,OLS,7,0.2533,-0.2777,"[-0.859, 0.044]",0.6472,0.328,0.0029
+survey archive only,GBM,7,0.2244,-0.3965,"[-1.073, 0.008]",0.663,0.227,0.0426
+survey archive + open data,OLS,41,-0.035,-0.2673,"[-0.874, 0.094]",0.6457,0.349,0.0015
+survey archive + open data,GBM,41,0.1004,-0.2075,"[-0.708, 0.119]",0.6231,0.269,0.0159

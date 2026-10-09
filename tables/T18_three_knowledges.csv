@@ -1,0 +1,7 @@
+﻿issue,item,n,resident_mean,morans_I,morans_p,r2_open_data_only,r2_full,expert_severity,authority_agenda_pct,resident_rank,expert_severity_rank,authority_agenda_rank,r2_full_rank
+Air pollution,b_air,459,2.651,0.0604,0.005,-0.1913,-0.0646,3.29,65.2,1,4,3,6
+Noise pollution,b_noise,459,2.547,0.0678,0.002,-0.1768,-0.0314,3.4,17.4,2,1,6,5
+Traffic congestion,b_congest,459,2.514,0.0784,0.001,-0.0521,0.0556,3.303,95.7,3,3,1,3
+Flooding,b_flood,459,2.484,0.1834,0.001,-0.2181,0.1416,3.0,73.9,4,6,2,1
+Water pollution,b_water,459,2.207,0.1113,0.001,-0.1274,0.0389,3.333,21.7,5,2,5,4
+Traffic accidents,b_accident,459,2.026,0.1218,0.001,-0.0048,0.1224,3.258,26.1,6,5,4,2

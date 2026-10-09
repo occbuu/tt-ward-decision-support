@@ -1,0 +1,6 @@
+metric,n,estimate,ci_or_range,interpretation,decision
+All fields: Fleiss kappa,197,0.456,0.394-0.504,Moderate pooled agreement,Inspect field compatibility
+Substantive fields,132,"kappa=0.667; alpha=0.668",123/132 strict majority (93.2%),Substantial agreement,Adjudicate non-majority cases
+Participation fields,66,"kappa=-0.026; alpha=-0.024",0/66 strict majority,Ontology mismatch,Define separate multi-label frame
+Pairwise Cohen kappa,15 pairs,0.463 mean,0.374-0.799,Coder-pair dependence,Use multi-rater estimate
+Final gold standard,130,123 majority plus 7 adjudicated,2 multi-theme responses excluded,Single-label substantive set,Ready for reproducible LLM runs

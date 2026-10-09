@@ -1,0 +1,101 @@
+{
+  "evaluation_utc": "2026-10-08T10:22:22.249588+00:00",
+  "gold_sha256": "b4e242424a34a9346c7cbc2cb03d379c032194db34b87bc865bcbf4edd92caeb",
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20261008,
+  "definition": "Macro-F1 averages the fixed eight codes; unsupported classes receive F1=0. Invalid outputs remain errors.",
+  "runs": [
+    {
+      "strategy": "zero_shot",
+      "repeat": 1,
+      "n": 130,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "ci95": {
+        "accuracy": [
+          0.0,
+          0.0
+        ],
+        "macro_f1": [
+          0.0,
+          0.0
+        ],
+        "cohen_kappa": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "strategy": "zero_shot",
+      "repeat": 2,
+      "n": 130,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "ci95": {
+        "accuracy": [
+          0.0,
+          0.0
+        ],
+        "macro_f1": [
+          0.0,
+          0.0
+        ],
+        "cohen_kappa": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "strategy": "zero_shot",
+      "repeat": 3,
+      "n": 130,
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "cohen_kappa": 0.0,
+      "invalid_or_failed": 130,
+      "ci95": {
+        "accuracy": [
+          0.0,
+          0.0
+        ],
+        "macro_f1": [
+          0.0,
+          0.0
+        ],
+        "cohen_kappa": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "repeat_summary": [
+    {
+      "strategy": "zero_shot",
+      "accuracy": {
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "cohen_kappa": {
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  ]
+}

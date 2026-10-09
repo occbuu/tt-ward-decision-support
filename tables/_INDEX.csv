@@ -1,0 +1,23 @@
+﻿table,file,rows,caption
+S1_datapaper4_raster_audit,Tables/S1_datapaper4_raster_audit.csv,16,Coverage audit of the DataPaper4 export against the 539 survey points.
+S2_layer2_qa_flags,Tables/S2_layer2_qa_flags.csv,4,Automated quality-assurance flags raised by pipeline Layer 2.
+S3_layer2_recheck,Tables/S3_layer2_recheck.csv,4,Layer-2 re-verification of construct statistics after enrichment.
+T10_q23_barrier_gap,Tables/T10_q23_barrier_gap.csv,6,"Barriers to solving urban problems: experts vs authorities (Q2.3, choose 3)."
+T11_model_ladder,Tables/T11_model_ladder.csv,16,"Model ladder performance under random and spatial block cross-validation, with bootstrap 95% confidence intervals."
+T12_paired_increments,Tables/T12_paired_increments.csv,10,Paired bootstrap increments in out-of-fold R-squared between successive model rungs.
+T13_spatial_optimism,Tables/T13_spatial_optimism.csv,8,Spatial optimism: the inflation of R-squared under random cross-validation.
+T14_shap_importance,Tables/T14_shap_importance.csv,45,Global SHAP feature importance for the full-feature gradient boosting model.
+T15_shap_by_block,Tables/T15_shap_by_block.csv,3,SHAP attribution aggregated by feature block.
+T17_transfer_residents_to_smes,Tables/T17_transfer_residents_to_smes.csv,6,Transfer of the trained model from residents to the SME instrument.
+T18_three_knowledges,Tables/T18_three_knowledges.csv,6,"The six urban burdens ranked by residents, experts, the institutional agenda, and by how well the available data can predict them."
+T19_source_agreement,Tables/T19_source_agreement.csv,6,"Rank agreement between residents, experts, the institutional agenda and data legibility."
+T1_expert_dt_barriers,Tables/T1_expert_dt_barriers.csv,6,"Barriers to digital transformation identified by experts (Q2.10, choose 3, n=41)."
+T20_llm_validation_protocol,Tables/T20_llm_validation_protocol.csv,5,Two-tier validation protocol for LLM coding of Vietnamese open responses. Values are pending completion of independent human coding.
+T2_barrier_cooccurrence,Tables/T2_barrier_cooccurrence.csv,6,Co-occurrence counts of digital-transformation barriers (Experts Q2.10).
+T3_barrier_edges,Tables/T3_barrier_edges.csv,15,Barrier co-occurrence edge list with Jaccard weights.
+T4_selection_vs_chance,Tables/T4_selection_vs_chance.csv,6,Expert barrier selection tested against a uniform choose-3-of-6 null.
+T5_barrier_matrix_means,Tables/T5_barrier_matrix_means.csv,6,Mean expert-rated importance of five barrier classes across six urban issues (Q3.xA).
+T6_barrier_class_overall,Tables/T6_barrier_class_overall.csv,5,Pooled importance of the five barrier classes with bootstrap 95% CIs.
+T7_friedman_by_issue,Tables/T7_friedman_by_issue.csv,6,Friedman tests of barrier-class differences within each urban issue.
+T8_barrier_within_profile_rank,Tables/T8_barrier_within_profile_rank.csv,5,Within-profile rank of each barrier class across complete expert-issue profiles.
+T9_dt_progress_gap,Tables/T9_dt_progress_gap.csv,5,Assessment of digital-transformation progress: experts vs authorities.

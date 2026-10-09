@@ -1,0 +1,101 @@
+{
+  "evaluation_utc": "2026-10-08T10:23:00.658037+00:00",
+  "gold_sha256": "b4e242424a34a9346c7cbc2cb03d379c032194db34b87bc865bcbf4edd92caeb",
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20261008,
+  "definition": "Macro-F1 averages the fixed eight codes; unsupported classes receive F1=0. Invalid outputs remain errors.",
+  "runs": [
+    {
+      "strategy": "zero_shot",
+      "repeat": 1,
+      "n": 130,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "ci95": {
+        "accuracy": [
+          0.5615384615384615,
+          0.7230769230769231
+        ],
+        "macro_f1": [
+          0.4235601624069993,
+          0.5738847153103043
+        ],
+        "cohen_kappa": [
+          0.4714269284882148,
+          0.6556056975505281
+        ]
+      }
+    },
+    {
+      "strategy": "zero_shot",
+      "repeat": 2,
+      "n": 130,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "ci95": {
+        "accuracy": [
+          0.5615384615384615,
+          0.7230769230769231
+        ],
+        "macro_f1": [
+          0.4235601624069993,
+          0.5738847153103043
+        ],
+        "cohen_kappa": [
+          0.4714269284882148,
+          0.6556056975505281
+        ]
+      }
+    },
+    {
+      "strategy": "zero_shot",
+      "repeat": 3,
+      "n": 130,
+      "accuracy": 0.6384615384615384,
+      "macro_f1": 0.5090651481014501,
+      "cohen_kappa": 0.5632906868701307,
+      "invalid_or_failed": 0,
+      "ci95": {
+        "accuracy": [
+          0.5615384615384615,
+          0.7230769230769231
+        ],
+        "macro_f1": [
+          0.4235601624069993,
+          0.5738847153103043
+        ],
+        "cohen_kappa": [
+          0.4714269284882148,
+          0.6556056975505281
+        ]
+      }
+    }
+  ],
+  "repeat_summary": [
+    {
+      "strategy": "zero_shot",
+      "accuracy": {
+        "mean": 0.6384615384615384,
+        "sd": 0.0,
+        "min": 0.6384615384615384,
+        "max": 0.6384615384615384
+      },
+      "macro_f1": {
+        "mean": 0.5090651481014501,
+        "sd": 0.0,
+        "min": 0.5090651481014501,
+        "max": 0.5090651481014501
+      },
+      "cohen_kappa": {
+        "mean": 0.5632906868701307,
+        "sd": 0.0,
+        "min": 0.5632906868701307,
+        "max": 0.5632906868701307
+      }
+    }
+  ]
+}

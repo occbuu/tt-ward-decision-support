@@ -1,0 +1,7 @@
+﻿barrier_en,class,n,pct,expected_pct_if_random,p_binomial,p_holm
+Inter-agency coordination mechanisms,INSTITUTIONAL,31,75.6,50.0,0.0015,0.009
+Unclear policy,INSTITUTIONAL,26,63.4,50.0,0.1173,0.176
+Data access,INSTITUTIONAL,25,61.0,50.0,0.211,0.2532
+Insufficient budget,RESOURCE,17,41.5,50.0,0.3489,0.3489
+Divergent expertise across departments,INSTITUTIONAL,13,31.7,50.0,0.0275,0.055
+Insufficient personnel,RESOURCE,11,26.8,50.0,0.0043,0.0129

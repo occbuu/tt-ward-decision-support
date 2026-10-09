@@ -1,0 +1,16 @@
+﻿a,b,observed,jaccard,class_pair
+Inter-agency coordination mechanisms,Unclear policy,18,0.462,INSTITUTIONAL-INSTITUTIONAL
+Inter-agency coordination mechanisms,Data access,16,0.4,INSTITUTIONAL-INSTITUTIONAL
+Unclear policy,Data access,14,0.378,INSTITUTIONAL-INSTITUTIONAL
+Inter-agency coordination mechanisms,Insufficient budget,10,0.263,INSTITUTIONAL-RESOURCE
+Data access,Insufficient budget,10,0.312,INSTITUTIONAL-RESOURCE
+Inter-agency coordination mechanisms,Insufficient personnel,9,0.273,INSTITUTIONAL-RESOURCE
+Inter-agency coordination mechanisms,Divergent expertise across departments,9,0.257,INSTITUTIONAL-INSTITUTIONAL
+Unclear policy,Insufficient budget,9,0.265,INSTITUTIONAL-RESOURCE
+Unclear policy,Insufficient personnel,7,0.233,INSTITUTIONAL-RESOURCE
+Data access,Divergent expertise across departments,7,0.226,INSTITUTIONAL-INSTITUTIONAL
+Unclear policy,Divergent expertise across departments,4,0.114,INSTITUTIONAL-INSTITUTIONAL
+Insufficient budget,Divergent expertise across departments,4,0.154,RESOURCE-INSTITUTIONAL
+Data access,Insufficient personnel,3,0.091,INSTITUTIONAL-RESOURCE
+Divergent expertise across departments,Insufficient personnel,2,0.091,INSTITUTIONAL-RESOURCE
+Insufficient budget,Insufficient personnel,1,0.037,RESOURCE-RESOURCE

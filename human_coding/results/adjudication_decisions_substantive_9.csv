@@ -1,0 +1,10 @@
+﻿seg_id,field_desc,text,decision,gold_code,secondary_code,rationale
+S009,Reason for choosing this place to live,"Gia đình/họ hàng tôi sống ở đây, Tôi có thể kiếm sống ở đây",EXCLUDE_SINGLE_LABEL,,SOCIAL|ECON,Two explicit and co-equal reasons (family and livelihood); no defensible primary theme.
+S038,Desired change in the area,Có đầy đủ rồi,INCLUDE,OTHER,,States that the area already has everything; no requested substantive change.
+S048,Reason for not using public transport,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng,INCLUDE,MOBIL,INFRA,Reason for non-use concerns access to public transport; parking infrastructure is secondary.
+S075,Desired change in the area,không thêm gì hết,INCLUDE,OTHER,,Requests no additional change and names no substantive theme.
+S097,Desired change in the area,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi",INCLUDE,OTHER,,Declines to request a change and names no substantive theme.
+S099,Reason for choosing this place to live,"Tôi có thể kiếm sống ở đây, Dịch vụ giao thông công cộng ở đây rất tốt",EXCLUDE_SINGLE_LABEL,,ECON|MOBIL,Two explicit and co-equal location reasons (livelihood and public transport); no defensible primary theme.
+S121,Main business challenge,Các vấn đề liên quan môi trường kinh tế + thương mại,INCLUDE,ECON,,"The phrase refers to the economic and commercial environment, not environmental quality."
+S159,Reason for choosing this place to live,Ở khu vực khác,INCLUDE,OTHER,,Too vague to identify a substantive reason or theme.
+S171,Reason for not using public transport,Không cảm thấy thoải mái khi phải đi bộ đến các trạm,INCLUDE,MOBIL,,Walking discomfort is stated specifically as an access barrier to public transport.

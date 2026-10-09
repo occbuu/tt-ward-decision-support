@@ -1,0 +1,9 @@
+﻿model,random 5-fold,spatial block,optimism
+M1  + open data (OLS),0.0961,-0.1268,0.2229
+M1r + open data (ridge),0.1383,-0.0006,0.1389
+M2r + open data (random forest),0.1513,0.0186,0.1327
+M5  demographics + survey + open data (GBM),0.2968,0.2306,0.0662
+M4  demographics + survey + open data (ridge),0.3072,0.258,0.0492
+M2  + open data (gradient boosting),0.1096,0.0707,0.0389
+M0  demographics only (OLS),0.1047,0.0799,0.0248
+M3  demographics + survey archive (OLS),0.3074,0.2924,0.015

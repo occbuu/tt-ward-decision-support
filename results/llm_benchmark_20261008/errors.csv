@@ -1,0 +1,1222 @@
+model,repeat,seg_id,field,gold_code,predicted_code,finish_reason,empty_content,reasoning_present,completion_tokens,label_source,text
+aya-expanse:8b,1,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,1,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,1,S012,Q3.1_LyDo_ChonNoiSong,OTHER,SOCIAL,stop,False,False,3,strict_majority,Ko ở trường thọ
+aya-expanse:8b,1,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+aya-expanse:8b,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+aya-expanse:8b,1,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,1,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,1,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,1,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+aya-expanse:8b,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,1,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,1,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,1,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+aya-expanse:8b,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,1,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+aya-expanse:8b,1,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,1,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,1,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,1,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,1,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,1,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,stop,False,False,3,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+aya-expanse:8b,2,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,2,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,2,S012,Q3.1_LyDo_ChonNoiSong,OTHER,SOCIAL,stop,False,False,3,strict_majority,Ko ở trường thọ
+aya-expanse:8b,2,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+aya-expanse:8b,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+aya-expanse:8b,2,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,2,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,2,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,2,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+aya-expanse:8b,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,2,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,2,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,2,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+aya-expanse:8b,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,2,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+aya-expanse:8b,2,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,2,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,2,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,2,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,2,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,2,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,stop,False,False,3,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+aya-expanse:8b,3,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,3,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,3,S012,Q3.1_LyDo_ChonNoiSong,OTHER,SOCIAL,stop,False,False,3,strict_majority,Ko ở trường thọ
+aya-expanse:8b,3,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+aya-expanse:8b,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+aya-expanse:8b,3,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,3,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,3,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+aya-expanse:8b,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,3,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+aya-expanse:8b,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,3,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,3,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+aya-expanse:8b,3,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+aya-expanse:8b,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+aya-expanse:8b,3,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+aya-expanse:8b,3,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,3,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+aya-expanse:8b,3,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,3,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+aya-expanse:8b,3,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+aya-expanse:8b,3,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,stop,False,False,3,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+gemma3:12b,1,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,1,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,1,S011,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+gemma3:12b,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+gemma3:12b,1,S052,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,1,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+gemma3:12b,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,1,S087,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,1,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,1,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,1,S097,Q4.10_MongMuon_ThayDoi,OTHER,SOCIAL,stop,False,False,2,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+gemma3:12b,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S104,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,1,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S125,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,1,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,1,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,2,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,2,S011,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+gemma3:12b,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+gemma3:12b,2,S052,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,2,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+gemma3:12b,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,2,S087,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,2,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,2,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,2,S097,Q4.10_MongMuon_ThayDoi,OTHER,SOCIAL,stop,False,False,2,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+gemma3:12b,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S104,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,2,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S125,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,2,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,2,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,3,S002,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,3,S011,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+gemma3:12b,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+gemma3:12b,3,S052,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S063,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+gemma3:12b,3,S081,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S082,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+gemma3:12b,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,3,S087,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,3,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,3,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm nơi làm việc
+gemma3:12b,3,S097,Q4.10_MongMuon_ThayDoi,OTHER,SOCIAL,stop,False,False,2,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+gemma3:12b,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S104,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,SOCIAL,stop,False,False,2,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+gemma3:12b,3,S119,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S125,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S127,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S129,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S131,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S138,Q4.12_MM_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S148,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S149,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S158,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S168,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S180,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+gemma3:12b,3,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+gemma3:12b,3,S196,Q4.10_MongMuon_ThayDoi,INFRA,SOCIAL,stop,False,False,2,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,1,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,1,S004,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INFRA,stop,False,False,3,strict_majority,Ko ở trường thọ
+llama3.1:8b,1,S027,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S028,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S032,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S037,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,INFRA,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+llama3.1:8b,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+llama3.1:8b,1,S050,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S055,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S057,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S070,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,1,S073,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S078,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S079,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+llama3.1:8b,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,1,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,1,S096,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,1,S097,Q4.10_MongMuon_ThayDoi,OTHER,MOBIL,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+llama3.1:8b,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,1,S103,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S107,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S109,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S110,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S112,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+llama3.1:8b,1,S122,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S123,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S130,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S147,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S162,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,1,S172,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,1,S185,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,1,S192,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,1,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,1,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,1,S198,Q3.1_LyDo_ChonNoiKD,ECON,MOBIL,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+llama3.1:8b,2,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,2,S004,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INFRA,stop,False,False,3,strict_majority,Ko ở trường thọ
+llama3.1:8b,2,S027,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S028,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S032,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S037,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,INFRA,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+llama3.1:8b,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+llama3.1:8b,2,S050,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S055,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S057,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S070,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,2,S073,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S078,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S079,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+llama3.1:8b,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,2,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,2,S096,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,2,S097,Q4.10_MongMuon_ThayDoi,OTHER,MOBIL,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+llama3.1:8b,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,2,S103,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S107,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S109,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S110,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S112,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+llama3.1:8b,2,S122,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S123,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S130,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S147,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S162,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,2,S172,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,2,S185,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,2,S192,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,2,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,2,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,2,S198,Q3.1_LyDo_ChonNoiKD,ECON,MOBIL,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+llama3.1:8b,3,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,3,S004,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INFRA,stop,False,False,3,strict_majority,Ko ở trường thọ
+llama3.1:8b,3,S027,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S028,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S032,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S037,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,INFRA,stop,False,False,3,senior_adjudication,Có đầy đủ rồi
+llama3.1:8b,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+llama3.1:8b,3,S050,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S055,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S057,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S070,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,3,S073,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S078,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S079,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+llama3.1:8b,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,3,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,3,S096,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm nơi làm việc
+llama3.1:8b,3,S097,Q4.10_MongMuon_ThayDoi,OTHER,MOBIL,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+llama3.1:8b,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+llama3.1:8b,3,S103,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S107,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S109,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S110,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S112,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+llama3.1:8b,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+llama3.1:8b,3,S122,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S123,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S130,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S147,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S162,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,3,S172,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm dịch vụ tiện ích
+llama3.1:8b,3,S185,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S188,Q4.12_MM_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+llama3.1:8b,3,S192,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Thói quen sử dụng xe máy để di chuyển
+llama3.1:8b,3,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,3,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,ENVIR,stop,False,False,3,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+llama3.1:8b,3,S198,Q3.1_LyDo_ChonNoiKD,ECON,MOBIL,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen2.5:14b-instruct,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:14b-instruct,1,S006,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen2.5:14b-instruct,1,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,1,S032,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:14b-instruct,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:14b-instruct,1,S050,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,1,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,1,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,1,S073,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S075,Q4.12_MM_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,không thêm gì hết
+qwen2.5:14b-instruct,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:14b-instruct,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,1,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,1,S103,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S112,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:14b-instruct,1,S172,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,1,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:14b-instruct,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:14b-instruct,2,S006,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen2.5:14b-instruct,2,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,2,S032,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:14b-instruct,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:14b-instruct,2,S050,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,2,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,2,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,2,S073,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S075,Q4.12_MM_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,không thêm gì hết
+qwen2.5:14b-instruct,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:14b-instruct,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,2,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,2,S103,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S112,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:14b-instruct,2,S172,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,2,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:14b-instruct,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:14b-instruct,3,S006,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen2.5:14b-instruct,3,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,3,S032,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:14b-instruct,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:14b-instruct,3,S050,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,3,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,3,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:14b-instruct,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:14b-instruct,3,S073,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S075,Q4.12_MM_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,không thêm gì hết
+qwen2.5:14b-instruct,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:14b-instruct,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,3,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:14b-instruct,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:14b-instruct,3,S103,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S112,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:14b-instruct,3,S172,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:14b-instruct,3,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,1,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,1,S002,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,1,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,1,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:3b-instruct,1,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S052,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,1,S063,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,1,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,1,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,1,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S081,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S082,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:3b-instruct,1,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,1,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,1,S096,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,1,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen2.5:3b-instruct,1,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,1,S119,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,1,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S127,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S129,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S131,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S138,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:3b-instruct,1,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S148,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S149,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,1,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,1,S158,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S159,Q3.1_LyDo_ChonNoiSong,OTHER,HABIT,stop,False,False,4,senior_adjudication,Ở khu vực khác
+qwen2.5:3b-instruct,1,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,1,S168,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,1,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S180,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,1,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,1,S188,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,1,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,1,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,1,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,1,S196,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,1,S198,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen2.5:3b-instruct,2,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,2,S002,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,2,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,2,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:3b-instruct,2,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S052,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,2,S063,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,2,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,2,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,2,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S081,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S082,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:3b-instruct,2,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,2,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,2,S096,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,2,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen2.5:3b-instruct,2,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,2,S119,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,2,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S127,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S129,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S131,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S138,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:3b-instruct,2,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S148,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S149,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,2,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,2,S158,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S159,Q3.1_LyDo_ChonNoiSong,OTHER,HABIT,stop,False,False,4,senior_adjudication,Ở khu vực khác
+qwen2.5:3b-instruct,2,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,2,S168,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,2,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S180,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,2,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,2,S188,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,2,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,2,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,2,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,2,S196,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,2,S198,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen2.5:3b-instruct,3,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,3,S002,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,3,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S017,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,3,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:3b-instruct,3,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S052,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,3,S063,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S065,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,3,S066,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,3,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S071,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm các khu nhà ở
+qwen2.5:3b-instruct,3,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S081,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S082,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:3b-instruct,3,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,3,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,3,S096,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm nơi làm việc
+qwen2.5:3b-instruct,3,S097,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen2.5:3b-instruct,3,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen2.5:3b-instruct,3,S119,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:3b-instruct,3,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S127,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S129,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S131,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S138,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:3b-instruct,3,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S148,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S149,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,3,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:3b-instruct,3,S158,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S159,Q3.1_LyDo_ChonNoiSong,OTHER,HABIT,stop,False,False,4,senior_adjudication,Ở khu vực khác
+qwen2.5:3b-instruct,3,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,An ninh và An toàn
+qwen2.5:3b-instruct,3,S168,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,3,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S180,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,3,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen2.5:3b-instruct,3,S188,Q4.12_MM_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,Thêm trung tâm thương mại
+qwen2.5:3b-instruct,3,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,3,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,HABIT,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:3b-instruct,3,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen2.5:3b-instruct,3,S196,Q4.10_MongMuon_ThayDoi,INFRA,HABIT,stop,False,False,4,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:3b-instruct,3,S198,Q3.1_LyDo_ChonNoiKD,ECON,HABIT,stop,False,False,4,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen2.5:7b-instruct,1,S002,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,1,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S011,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S017,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,1,S032,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:7b-instruct,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:7b-instruct,1,S050,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S052,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S063,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S065,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,1,S066,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,1,S071,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,1,S073,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S081,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S082,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:7b-instruct,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,1,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S103,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S112,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S119,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,1,S125,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S127,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S129,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S131,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S138,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:7b-instruct,1,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S148,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S149,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen2.5:7b-instruct,1,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,1,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,1,S158,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,1,S168,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S172,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,1,S180,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,1,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,1,S196,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S002,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,2,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S011,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S017,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,2,S032,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:7b-instruct,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:7b-instruct,2,S050,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S052,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S063,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S065,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,2,S066,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,2,S071,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,2,S073,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S081,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S082,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:7b-instruct,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,2,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S103,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S112,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S119,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,2,S125,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S127,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S129,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S131,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S138,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:7b-instruct,2,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S148,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S149,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen2.5:7b-instruct,2,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,2,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,2,S158,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,2,S168,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S172,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,2,S180,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,2,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,2,S196,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S002,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,3,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S011,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S017,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,3,S032,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S037,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,HABIT,stop,False,False,4,senior_adjudication,Có đầy đủ rồi
+qwen2.5:7b-instruct,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INFRA,stop,False,False,3,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen2.5:7b-instruct,3,S050,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S052,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S063,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S065,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,3,S066,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,3,S071,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm các khu nhà ở
+qwen2.5:7b-instruct,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,MOBIL,stop,False,False,4,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen2.5:7b-instruct,3,S073,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S081,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S082,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen2.5:7b-instruct,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,3,S096,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm nơi làm việc
+qwen2.5:7b-instruct,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,MOBIL,stop,False,False,4,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S103,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S112,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S119,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,SOCIAL,stop,False,False,3,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen2.5:7b-instruct,3,S125,Q4.10_MongMuon_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S127,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S129,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S131,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S138,Q4.12_MM_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,HABIT,stop,False,False,4,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen2.5:7b-instruct,3,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S148,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S149,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen2.5:7b-instruct,3,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,3,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,HABIT,stop,False,False,4,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen2.5:7b-instruct,3,S158,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,GOVERN,stop,False,False,3,strict_majority,An ninh và An toàn
+qwen2.5:7b-instruct,3,S168,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S172,Q4.12_MM_ThayDoi,INFRA,OTHER,stop,False,False,2,strict_majority,Thêm dịch vụ tiện ích
+qwen2.5:7b-instruct,3,S180,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen2.5:7b-instruct,3,S188,Q4.12_MM_ThayDoi,INFRA,ECON,stop,False,False,3,strict_majority,Thêm trung tâm thương mại
+qwen2.5:7b-instruct,3,S196,Q4.10_MongMuon_ThayDoi,INFRA,ENVIR,stop,False,False,3,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,1,S002,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S003,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,1,S004,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S005,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S006,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen3:8b,1,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S011,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,strict_majority,Ko ở trường thọ
+qwen3:8b,1,S017,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,1,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S022,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,1,S023,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, An ninh và An toàn"
+qwen3:8b,1,S026,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S027,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S028,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S032,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S036,Q3.1_LyDo_ChonNoiSong,HABIT,INVALID,length,True,True,32,strict_majority,Thuận tiện
+qwen3:8b,1,S037,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,1,S038,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,Có đầy đủ rồi
+qwen3:8b,1,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,1,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S043,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,1,S045,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,1,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,1,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S050,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S052,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S055,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S057,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,1,S063,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S064,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,1,S065,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,1,S066,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,1,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S068,Q4.6_ThachThuc,OTHER,INVALID,length,True,True,32,strict_majority,không có điều gì khác
+qwen3:8b,1,S070,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S071,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,1,S072,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,1,S073,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S075,Q4.12_MM_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,không thêm gì hết
+qwen3:8b,1,S076,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S078,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S079,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S081,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S082,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen3:8b,1,S084,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen3:8b,1,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S086,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,1,S087,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S088,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,1,S089,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,1,S090,Q2.8_LyDo_KSD_PTCC,INFRA,INVALID,length,True,True,32,strict_majority,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,1,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,1,S096,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,1,S097,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen3:8b,1,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,1,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S102,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S103,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S104,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S107,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S108,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,1,S109,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S110,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S112,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,1,S118,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,1,S119,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S120,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen3:8b,1,S121,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,senior_adjudication,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S122,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S123,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S125,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S127,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S128,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,strict_majority,Hiện tại không biết
+qwen3:8b,1,S129,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S130,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S131,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S132,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (nhà cửa, đất đai) ở đây phù hợp với tôi"
+qwen3:8b,1,S133,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S138,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen3:8b,1,S141,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S147,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S148,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S149,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen3:8b,1,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,1,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,1,S158,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S159,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,senior_adjudication,Ở khu vực khác
+qwen3:8b,1,S162,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,1,S168,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,1,S172,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,1,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S180,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,1,S183,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,1,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,1,S185,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S186,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,1,S188,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,1,S192,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,1,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,1,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,1,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,1,S196,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,1,S197,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,1,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen3:8b,2,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,2,S002,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S003,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,2,S004,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S005,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S006,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen3:8b,2,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S011,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,strict_majority,Ko ở trường thọ
+qwen3:8b,2,S017,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,2,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S022,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,2,S023,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, An ninh và An toàn"
+qwen3:8b,2,S026,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S027,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S028,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S032,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S036,Q3.1_LyDo_ChonNoiSong,HABIT,INVALID,length,True,True,32,strict_majority,Thuận tiện
+qwen3:8b,2,S037,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,2,S038,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,Có đầy đủ rồi
+qwen3:8b,2,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,2,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S043,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,2,S045,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,2,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,2,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S050,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S052,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S055,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S057,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,2,S063,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S064,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,2,S065,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,2,S066,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,2,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S068,Q4.6_ThachThuc,OTHER,INVALID,length,True,True,32,strict_majority,không có điều gì khác
+qwen3:8b,2,S070,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S071,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,2,S072,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,2,S073,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S075,Q4.12_MM_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,không thêm gì hết
+qwen3:8b,2,S076,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S078,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S079,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S081,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S082,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen3:8b,2,S084,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen3:8b,2,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S086,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,2,S087,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S088,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,2,S089,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,2,S090,Q2.8_LyDo_KSD_PTCC,INFRA,INVALID,length,True,True,32,strict_majority,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,2,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,2,S096,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,2,S097,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen3:8b,2,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,2,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S102,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S103,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S104,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S107,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S108,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,2,S109,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S110,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S112,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,2,S118,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,2,S119,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S120,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen3:8b,2,S121,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,senior_adjudication,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S122,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S123,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S125,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S127,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S128,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,strict_majority,Hiện tại không biết
+qwen3:8b,2,S129,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S130,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S131,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S132,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (nhà cửa, đất đai) ở đây phù hợp với tôi"
+qwen3:8b,2,S133,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S138,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen3:8b,2,S141,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S147,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S148,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S149,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen3:8b,2,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,2,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,2,S158,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S159,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,senior_adjudication,Ở khu vực khác
+qwen3:8b,2,S162,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,2,S168,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,2,S172,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,2,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S180,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,2,S183,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,2,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,2,S185,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S186,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,2,S188,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,2,S192,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,2,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,2,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,2,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,2,S196,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,2,S197,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,2,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này
+qwen3:8b,3,S001,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,3,S002,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S003,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,3,S004,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S005,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S006,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..), Phát triển cơ sở hạ tầng"
+qwen3:8b,3,S007,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S010,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S011,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S012,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,strict_majority,Ko ở trường thọ
+qwen3:8b,3,S017,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,3,S019,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S021,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S022,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,3,S023,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, An ninh và An toàn"
+qwen3:8b,3,S026,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S027,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S028,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S032,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S033,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S036,Q3.1_LyDo_ChonNoiSong,HABIT,INVALID,length,True,True,32,strict_majority,Thuận tiện
+qwen3:8b,3,S037,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,3,S038,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,Có đầy đủ rồi
+qwen3:8b,3,S039,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S041,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,3,S042,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S043,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,3,S045,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,3,S048,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,3,S049,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S050,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S052,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm các khu nhà ở, Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S055,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S057,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S061,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S062,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,3,S063,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S064,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,3,S065,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,3,S066,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,3,S067,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S068,Q4.6_ThachThuc,OTHER,INVALID,length,True,True,32,strict_majority,không có điều gì khác
+qwen3:8b,3,S070,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S071,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm các khu nhà ở
+qwen3:8b,3,S072,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,3,S073,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S074,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S075,Q4.12_MM_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,không thêm gì hết
+qwen3:8b,3,S076,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S078,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S079,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S080,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S081,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S082,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S083,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi đã kinh doanh ở đây, Khu vực này có an ninh tốt"
+qwen3:8b,3,S084,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm nơi làm việc"
+qwen3:8b,3,S085,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S086,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,3,S087,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S088,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,3,S089,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,3,S090,Q2.8_LyDo_KSD_PTCC,INFRA,INVALID,length,True,True,32,strict_majority,Thiếu cơ sở hạ tầng giữ xe cá nhân tại các trạm giao thông công cộng
+qwen3:8b,3,S095,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,3,S096,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm nơi làm việc
+qwen3:8b,3,S097,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,senior_adjudication,"Bác gái không cần thêm gì, vì bác không muốn đòi hỏi"
+qwen3:8b,3,S098,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,3,S100,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm nơi làm việc, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S102,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S103,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S104,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S106,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S107,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S108,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,Tôi có thể kiếm sống ở đây
+qwen3:8b,3,S109,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S110,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S112,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S113,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S117,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Chất lượng xe buýt và thái độ phục vụ chưa tốt
+qwen3:8b,3,S118,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,3,S119,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S120,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này, Khu vực này có an ninh tốt"
+qwen3:8b,3,S121,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,senior_adjudication,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S122,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S123,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S124,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S125,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm trung tâm thương mại, Thêm dịch vụ tiện ích, Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S127,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S128,Q4.10_MongMuon_ThayDoi,OTHER,INVALID,length,True,True,32,strict_majority,Hiện tại không biết
+qwen3:8b,3,S129,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S130,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S131,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S132,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (nhà cửa, đất đai) ở đây phù hợp với tôi"
+qwen3:8b,3,S133,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S136,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S137,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S138,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S140,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Gia đình/họ hàng tôi sống ở đây, Nơi này rất đáng sống"
+qwen3:8b,3,S141,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S144,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S147,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S148,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S149,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S150,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S151,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S152,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,"Nơi này rất đáng sống, An ninh và An toàn"
+qwen3:8b,3,S155,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,3,S156,Q3.1_LyDo_ChonNoiKD,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi đã kinh doanh ở đây
+qwen3:8b,3,S158,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S159,Q3.1_LyDo_ChonNoiSong,OTHER,INVALID,length,True,True,32,senior_adjudication,Ở khu vực khác
+qwen3:8b,3,S162,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S166,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,An ninh và An toàn
+qwen3:8b,3,S168,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S171,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,senior_adjudication,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,3,S172,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm dịch vụ tiện ích
+qwen3:8b,3,S173,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S177,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S180,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S182,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,3,S183,Q4.6_ThachThuc,ENVIR,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường tự nhiên + thời tiết / khí hậu
+qwen3:8b,3,S184,Q3.1_LyDo_ChonNoiSong,SOCIAL,INVALID,length,True,True,32,strict_majority,Gia đình/họ hàng tôi sống ở đây
+qwen3:8b,3,S185,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S186,Q3.1_LyDo_ChonNoiSong,ECON,INVALID,length,True,True,32,strict_majority,"Chi phí bất động sản (Đất đai, Nhà cửa, vv)"
+qwen3:8b,3,S188,Q4.12_MM_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,Thêm trung tâm thương mại
+qwen3:8b,3,S192,Q2.8_LyDo_KSD_PTCC,HABIT,INVALID,length,True,True,32,strict_majority,Thói quen sử dụng xe máy để di chuyển
+qwen3:8b,3,S193,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,3,S194,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Không cảm thấy thoải mái khi phải đi bộ đến các trạm
+qwen3:8b,3,S195,Q2.8_LyDo_KSD_PTCC,MOBIL,INVALID,length,True,True,32,strict_majority,Số lượng điểm dừng và tần suất các chuyến chưa đủ
+qwen3:8b,3,S196,Q4.10_MongMuon_ThayDoi,INFRA,INVALID,length,True,True,32,strict_majority,"Thêm sân chơi cộng đồng (công viên, sân chơi thể thao,hồ bơi..)"
+qwen3:8b,3,S197,Q4.6_ThachThuc,ECON,INVALID,length,True,True,32,strict_majority,Các vấn đề liên quan môi trường kinh tế + thương mại
+qwen3:8b,3,S198,Q3.1_LyDo_ChonNoiKD,ECON,INVALID,length,True,True,32,strict_majority,Khách hàng tiềm năng của tôi tập trung nhiều tại khu vực này

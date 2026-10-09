@@ -1,0 +1,7 @@
+﻿issue_en,n_complete,friedman_chi2,df,p,kendall_w,p_bh
+Air pollution,30,1.337,4,0.8551,0.011,0.9753
+Flooding,29,5.924,4,0.2049,0.051,0.4283
+Noise pollution,30,6.044,4,0.1959,0.05,0.4283
+Water pollution,31,2.715,4,0.6066,0.022,0.91
+Traffic congestion,32,0.481,4,0.9753,0.004,0.9753
+Traffic accidents,31,5.805,4,0.2142,0.047,0.4283

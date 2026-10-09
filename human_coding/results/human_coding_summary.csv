@@ -1,0 +1,10 @@
+﻿metric,value,ci_low,ci_high
+items_in_sample,198.0,,
+complete_case_items_six_raters,197.0,,
+fleiss_kappa_complete_cases,0.4561073304597303,0.3939281904722179,0.5043440495383607
+krippendorff_alpha_nominal_all_items,0.45781749266524274,0.4076784028674873,0.5219151410515216
+pairwise_raw_agreement_mean,0.5520193474508196,0.4720812182741117,0.8333333333333334
+pairwise_cohen_kappa_mean,0.46341070501692055,0.37351313335168024,0.7992194942076637
+strict_majority_items,123.0,,
+adjudication_items,75.0,,
+unanimous_items,57.0,,
